@@ -11,6 +11,7 @@
 .rainbow div {
   border-radius: 50%;
   overflow: hidden;
+  max-width: 100%;
 }
 .rainbow > div {
   width: 400px;
